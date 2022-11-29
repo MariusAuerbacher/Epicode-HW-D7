@@ -78,11 +78,29 @@ console.log(name2.toLowerCase());
  Create a variable named x, and assign to it a numeric value less than 10.
  Write the code to print the literal value of x (ex.: if x is 1, it should print "one", if x is 5 it should print "five" etc.).
 */
-I'll call it y because we already have an x
-let y = 9;
-if (y === 9) {
+I'll called it y because we already have an x 
+if (y === 0) {
+  console.log("zero")
+} else if (y === 1) {
+  console.log("one")
+} else if (y === 2) {
+  console.log("two")
+} else if (y === 3) {
+  console.log("three")
+} else if (y === 4){
+  console.log("four")
+} else if (y === 5){
+  console.log("five")
+} else if (y === 6) {
+  console.log("six")
+} else if (y === 7){
+  console.log("seven")
+} else if (y === 8){
+  console.log("eight")
+} else if (y === 9){
   console.log("nine")
 }
+
 
 
 
